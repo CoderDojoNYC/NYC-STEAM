@@ -4,7 +4,8 @@ NYC STEAM/STEM organizations and events
 #Late Summer Programs
 
  
-
+| Title                     | Organization    | Ages | Dates | Location | Links | Description      | 
+|-------------------------  |:---------------:|:----:|:-----:|:--------:|:-----:| ----------------:|
 |Tech Kids Unlimited        |                 | 7-19 |Various| Various  |http://www.techkidsunlimited.org/#about| Various programs that empower and inspire the next generation of digital natives to learn, create, develop and share the tools of technology in a supporting and nurturing environment.|
 | iD Tech Camp              |iDTech           | 7-17 |Week long Program|Across the States|https://www.idtech.com/locations/new-york-summer-camps/new-york/|Students learn to create a digital movie, webpage, mobile app, video game, or other fun tech projects.|
 | iD Tech Academies         |iDTech           | 13-18|                 |Across the State|https://www.idtech.com/locations/new-york-summer-camps/new-york/|Students learn to create a digital movie, webpage, mobile app, video game, or other fun tech projects. |
