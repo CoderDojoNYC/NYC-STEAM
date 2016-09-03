@@ -2,22 +2,20 @@
 NYC STEAM/STEM organizations and events
 
 #Late Summer Programs
-
- 
-| Title                     | Organization    | Ages | Dates | Location | Links | Description      | 
-|-------------------------  |:---------------:|:----:|:-----:|:--------:|:-----:| ----------------:|
-|Tech Kids Unlimited        |                 | 7-19 |Various| Various  |http://www.techkidsunlimited.org/#about| Various programs that empower and inspire the next generation of digital natives to learn, create, develop and share the tools of technology in a supporting and nurturing environment.|
-| iD Tech Camp              |iDTech           | 7-17 |Week long Program|Across the States|https://www.idtech.com/locations/new-york-summer-camps/new-york/|Students learn to create a digital movie, webpage, mobile app, video game, or other fun tech projects.|
-| iD Tech Academies         |iDTech           | 13-18|                 |Across the State|https://www.idtech.com/locations/new-york-summer-camps/new-york/|Students learn to create a digital movie, webpage, mobile app, video game, or other fun tech projects. |
-| iD Tech Mini              |iDTech           | 6-9  |                 |Across the State|https://www.idtech.com/locations/new-york-summer-camps/new-york/|Students learn to create a digital movie, webpage, mobile app, video game, or other fun tech projects. |
-| Alexa Café                |iDTech           | 10-15|                 |          |https://precollege.flatironschool.com|Students learn to create a digital movie, webpage, mobile app, video game, or other fun tech projects. |
-| Flatiron Summer Academy   |Academy          |High School Student|Multiple Dates|NYC, Austin, Boston,Chicago, Connecticut, London, Miami, San Francisco, many different locations|https://precollege.flatironschool.com|High school students learn the fundamentals of programming, advanced app development, front-end web-design, and the ins-and-outs of startups.|
+ | Title                     | Organization    | Ages | Dates | Location | Links |      Description        | 
+ |-------------------------  |:---------------:|:----:|:-----:|:--------:|:-----:| -----------------------:|
+ |Tech Kids Unlimited        |                 | 7-19 |Various| Various  |http://www.techkidsunlimited.org/#about| Various programs that empower and inspire the next generation of digital natives to learn, create, develop and share the tools of technology in a supporting and nurturing environment.|
+ | iD Tech Camp              |iDTech           | 7-17 |Week long Program|Across the State|https://www.idtech.com/locations/new-york-summer-camps/new-york/|Students learn to create a digital movie, webpage, mobile app, video game, or other fun tech projects. |
+ | iD Tech Academies         |iDTech           | 13-18|                 |Across the State|https://www.idtech.com/locations/new-york-summer-camps/new-york/|Students learn to create a digital movie, webpage, mobile app, video game, or other fun tech projects. |
+ | iD Tech Mini              |iDTech           | 6-9  |                 |Across the State|https://www.idtech.com/locations/new-york-summer-camps/new-york/|Students learn to create a digital movie, webpage, mobile app, video game, or other fun tech projects. |
+ | Alexa Café                |iDTech           | 10-15|                 |                |https://precollege.flatironschool.com|Students learn to create a digital movie, webpage, mobile app, video game, or other fun tech projects. |
+ | Flatiron Summer Academy   |Academy          |High School Student|Multiple Dates|NYC, Austin, Boston,Chicago, Connecticut, London, Miami, San Francisco, many different locations|https://precollege.flatironschool.com|High school students learn the fundamentals of programming, advanced app development, front-end web-design, and the ins-and-outs of startups.|
 
 # Organizations
 
 | Title                     | Organization    | Ages | Dates | Location | Links | Description      | 
 |-------------------------  |:---------------:|:----:|:-----:|:--------:|:-----:| ----------------:|
-| ScriptEd                  ||High School students|||http://scripted.org|ScriptEd equips students in under-resourced schools with the fundamental coding skills and professional experiences that together create access to careers in technology.|
+| ScriptEd                  || High School students|||http://scripted.org|ScriptEd equips students in under-resourced schools with the fundamental coding skills and professional experiences that together create access to careers in technology.|
 | Black Girls Code||7-17|||http://blackgirlscode.com|To increase the number of women of color in the digital space by empowering girls of color ages 7 to 17 to become innovators in STEM fields, leaders in their communities, and builders of their own futures through exposure to computer science and technology. To provide African-American youth with the skills to occupy some of the 1.4 million computing job openings expected to be available in the U.S. by 2020, and to train 1 million girls by 2040.|
 | Girls Who Code ||High School students|||http://girlswhocode.com|Girls Who Code is a national non-profit organization dedicated to closing the gender gap in technology.|
 |CodeNow||High School students|||http://codenow.org|Through our CodeNow in a Box program, we provide talented software engineers with the tools needed to implement workshops. Over the course of a month, students learn foundational programming skills through hands-on training. By the end of the workshop, students gain an understanding of essential programming concepts, 25 hours of practical experience, and insight into a career in the technology field.|
@@ -51,4 +49,19 @@ An after-hours learning party with a focus on ideation and tech skills for South
 
 
 # Early Fall Opportunities
+| Title                     | Organization    | Ages | Dates | Location | Links | Description      | 
+|-------------------------  |:---------------:|:----:|:-----:|:--------:|:-----:| ----------------:|
+|The Coding Space Open Workshop & Open House|The Coding Space|     |
+|Agile Youth Challenge|           |Grades 6-12|
+|MOUSE Open Maker Night|NYSCI|High School Students|
+|NYSCI STEM Night|Microsoft|Middle School to College Students|
+|YouthSpark Live|NYSCI|     |
+|Maker Night: Making for the Community|NYSCI|College and High school students|
+|Innovation through Technology|NYSCI|College and High school students|
+|Social Media and STEM|NYSCI|College and High school students|
+|Design Engineering|NYSCI|College and High school students|
+|Women in STEM|NYSCI|College and High school students|
+|Conservation and STEM|NYSCI|College and High school students|
+|STEM Career Expo|NYSCI|College and High school students|
+
 
