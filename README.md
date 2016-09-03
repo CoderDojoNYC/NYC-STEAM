@@ -36,3 +36,7 @@ An after-hours learning party with a focus on ideation and tech skills for South
 |After School Robotics|Alliance for Digital Fabrication Education (adfab:ED)|Grades 7-12|||http://adfabed.org|ED is organizing an after-school robotics club in collaboration with Martel Design and Fabrication, based around the FIRST Tech Challenge.|
 |Nano Hacker Squad|Nano Hacker Academy||Fall|Bronx NY|http://nanohackers.org|Their aim is to mentor very tech-enthusiastic kids from CoderDojo NYC as a hackathon team, originally for the annual Young Rewired State (YRS) Hackathon Festival of Code.|
 |The Rap Research Lab||13-19|Tuesdays & Thursdays 4-6pm|Eyebeam @ Industry City, Sunset Park, 34 35th Street, 5th Floor, Brooklyn, NY 11232|http://eyebeam.org/communityyouth/rap-research-lab/|The Rap Research Lab is a studio for teens to explore art, data visualization, graphic design and the stats behind Beats, Rhymes & Life in a creative environment.|
+
+
+# Early Fall Opportunities
+
