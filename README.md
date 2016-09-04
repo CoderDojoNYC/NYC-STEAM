@@ -2,6 +2,7 @@
 NYC STEAM/STEM organizations and events
 
 #Late Summer Programs
+
  | Title                     | Organization    | Ages | Dates | Location | Links |      Description        | 
  |-------------------------- |:---------------:|:----:|:-----:|:--------:|:-----:| -----------------------:|
  |Tech Kids Unlimited        |                 | 7-19 |Various| Various  |http://www.techkidsunlimited.org/#about| Various programs that empower and inspire the next generation of digital natives to learn, create, develop and share the tools of technology in a supporting and nurturing environment.|
