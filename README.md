@@ -4,7 +4,7 @@ NYC STEAM/STEM organizations and events
 #Late Summer Programs
  | Title                     | Organization    | Ages | Dates | Location | Links |      Description        | 
  |-------------------------  |:---------------:|:----:|:-----:|:--------:|:-----:| -----------------------:|
- |Tech Kids Unlimited        |                 | 7-19 |Various| Various  |http://www.techkidsunlimited.org/#about| Various programs that empower and inspire the next generation of digital natives to learn, create, develop and share the tools of technology in a supporting and nurturing environment.|
+ |Tech Kids Unlimited |  | 7-19 |Various| Various|http://www.techkidsunlimited.org/#about| Various programs that empower and inspire the next generation of digital natives to learn, create, develop and share the tools of technology in a supporting and nurturing environment.|
  | iD Tech Camp              |iDTech           | 7-17 |Week long Program|Across the State|https://www.idtech.com/locations/new-york-summer-camps/new-york/|Students learn to create a digital movie, webpage, mobile app, video game, or other fun tech projects. |
  | iD Tech Academies         |iDTech           | 13-18|                 |Across the State|https://www.idtech.com/locations/new-york-summer-camps/new-york/|Students learn to create a digital movie, webpage, mobile app, video game, or other fun tech projects. |
  | iD Tech Mini              |iDTech           | 6-9  |                 |Across the State|https://www.idtech.com/locations/new-york-summer-camps/new-york/|Students learn to create a digital movie, webpage, mobile app, video game, or other fun tech projects. |
@@ -51,17 +51,17 @@ An after-hours learning party with a focus on ideation and tech skills for South
 # Early Fall Opportunities
 | Title                     | Organization    | Ages | Dates | Location | Links | Description      | 
 |-------------------------  |:---------------:|:----:|:-----:|:--------:|:-----:| ----------------:|
-|The Coding Space Open Workshop & Open House|The Coding Space|     |
-|Agile Youth Challenge|           |Grades 6-12|
-|MOUSE Open Maker Night|NYSCI|High School Students|
-|NYSCI STEM Night|Microsoft|Middle School to College Students|
-|YouthSpark Live|NYSCI|     |
-|Maker Night: Making for the Community|NYSCI|College and High school students|
-|Innovation through Technology|NYSCI|College and High school students|
-|Social Media and STEM|NYSCI|College and High school students|
-|Design Engineering|NYSCI|College and High school students|
-|Women in STEM|NYSCI|College and High school students|
-|Conservation and STEM|NYSCI|College and High school students|
-|STEM Career Expo|NYSCI|College and High school students|
+|The Coding Space Open Workshop & Open House|The Coding Space|     |   |Regis High School: 55 E 84th St. Room 503 . New York, NY 10028|http://www.thecodingspace.com/?gclid=CjwKEAjwiru9BRDwyKmR08L3iS0SJABN8T4vLaHlZghi3Rh7BvCS6r5glCZujeF10Pxm7Z9ZP1omkxoC873w_wcB|Parents and kids coming together to learn to code|
+|Agile Youth Challenge|           |Grades 6-12|Various dates|Bronx|http://ayc.drupalgardens.com|The Agile Youth Challenge is a programming codeathon competition for students in grades 6-12, at any school, with any level of programming experience.|
+|MOUSE Open Maker Night|NYSCI|High School Students|Monthly--Next one: September 29th|Manhattan|https://mousesquad.org/makernight|MOUSE periodically holds FREE, open Maker Nights for high schoolers! We provide the materials -- things like pipe cleaners, Arduinos, clay, breadboards, LEDs and sensors, MakerBot 3D printers, laptops, motors, hot glue guns, soldering equipment, craft supplies, and more -- and you provide the ideas and inventions!|
+|NYSCI STEM Night|Microsoft|Middle School to College Students|Monthly|Queenns|http://nysci.org/stem-nights/|STEM Nights are a series of evening events that feature talks and informal networking with STEM professionals who are invited to NYSCI to share their work and career journeys with the Explainers in our Science Career Ladder program and other high school and college students across the city.|
+|YouthSpark Live|NYSCI|     |Multiple dates|     |https://www.microsoft.com/about/philanthropies/youthspark/youthsparkhub/programs/yslive/|Throughout the event, young people identify the skills they need to reach their goals, figure out how technology will accelerate them forward, and get connected to programs that will help them get there.|
+|Maker Night: Making for the Community|NYSCI|College and High school students|September 29,2016|  |www.nysci.org|Maker Night includes an open, exploratory session wherein participants engage in hands-on activities related to the field of focus, a panel discussion by professionals in the field, followed by questions from the audience, and then a networking session.|
+|Innovation through Technology|NYSCI|College and High school students|October 28,2016|    |       |www.nysci.org|Maker Night includes an open, exploratory session wherein participants engage in hands-on activities related to the field of focus, a panel discussion by professionals in the field, followed by questions from the audience, and then a networking session.|
+|Social Media and STEM|NYSCI|College and High school students|December 9,2016|       |www.nysci.org|Maker Night includes an open, exploratory session wherein participants engage in hands-on activities related to the field of focus, a panel discussion by professionals in the field, followed by questions from the audience, and then a networking session.|
+|Design Engineering|NYSCI|College and High school students|February 3,2017|       |www.nysci.org|Maker Night includes an open, exploratory session wherein participants engage in hands-on activities related to the field of focus, a panel discussion by professionals in the field, followed by questions from the audience, and then a networking session.|
+|Women in STEM|NYSCI|College and High school students|March3,2017|       |   www.nysci.org|Maker Night includes an open, exploratory session wherein participants engage in hands-on activities related to the field of focus, a panel discussion by professionals in the field, followed by questions from the audience, and then a networking session.|
+|Conservation and STEM|NYSCI|College and High school students|April TBA,2017|    |www.nysci.org|Maker Night includes an open, exploratory session wherein participants engage in hands-on activities related to the field of focus, a panel discussion by professionals in the field, followed by questions from the audience, and then a networking session.|
+|STEM Career Expo|NYSCI|College and High school students|May 12,2017|    |www.nysci.org|Maker Night includes an open, exploratory session wherein participants engage in hands-on activities related to the field of focus, a panel discussion by professionals in the field, followed by questions from the audience, and then a networking session.|
 
 
